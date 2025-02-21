@@ -3,20 +3,20 @@
 <div style="max-width:800px; background:#fff; margin:20px auto; padding:30px; border-radius:10px; box-shadow:0 2px 10px rgba(0,0,0,0.1);">
   <div style="text-align:center; margin-bottom:20px;">
     <h1 style="margin:0; font-size:2.8em; color:#2c3e50;">👨‍💻 Álvaro Pavón 🚀</h1>
-    <div style="margin-top:10px; font-size:1.6em;">
-      <a href="https://www.linkedin.com/in/alvaro-pav%C3%B3n-mart%C3%ADnez-a1a87b241/" target="_blank" style="margin:0 10px; color:#0077b5; text-decoration:none;" title="LinkedIn">
+    <div style="margin-top:15px; font-size:1.6em;">
+      <a href="https://www.linkedin.com/in/alvaro-pav%C3%B3n-mart%C3%ADnez-a1a87b241/" target="_blank" style="margin:0 20px; color:#0077b5; text-decoration:none;" title="LinkedIn">
         <i class="fab fa-linkedin"></i> 🔗
       </a>
-      <a href="https://github.com/AlvaroPavon" target="_blank" style="margin:0 10px; color:#333; text-decoration:none;" title="GitHub">
+      <a href="https://github.com/AlvaroPavon" target="_blank" style="margin:0 20px; color:#333; text-decoration:none;" title="GitHub">
         <i class="fab fa-github"></i> 💻
       </a>
-      <a href="https://wa.me/34662443794/?text=Hola%21" target="_blank" style="margin:0 10px; color:#25D366; text-decoration:none;" title="WhatsApp">
+      <a href="https://wa.me/34662443794/?text=Hola%21" target="_blank" style="margin:0 20px; color:#25D366; text-decoration:none;" title="WhatsApp">
         <i class="fab fa-whatsapp"></i> 📲
       </a>
-      <a href="https://app.hackthebox.com/profile/overview" target="_blank" style="margin:0 10px; color:#e74c3c; text-decoration:none;" title="HackTheBox">
+      <a href="https://app.hackthebox.com/profile/overview" target="_blank" style="margin:0 20px; color:#e74c3c; text-decoration:none;" title="HackTheBox">
         <i class="fas fa-shield-alt"></i> 🛡️
       </a>
-      <a href="mailto:alvaropavonmartinez7@gmail.com" style="margin:0 10px; color:#f39c12; text-decoration:none;" title="Email">
+      <a href="mailto:alvaropavonmartinez7@gmail.com" style="margin:0 20px; color:#f39c12; text-decoration:none;" title="Email">
         <i class="fas fa-envelope"></i> ✉️
       </a>
     </div>
