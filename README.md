@@ -2,8 +2,8 @@
 
 <div style="max-width:800px; background:#fff; margin:20px auto; padding:30px; border-radius:10px; box-shadow:0 2px 10px rgba(0,0,0,0.1);">
   <div style="text-align:center; margin-bottom:20px;">
-    <h1 style="margin:0; font-size:2.5em; color:#333;">Álvaro Pavón</h1>
-    <div style="margin-top:10px; font-size:1.2em;">
+    <h1 style="margin:0; font-size:2.8em; color:#2c3e50;">👨‍💻 Álvaro Pavón</h1>
+    <div style="margin-top:10px; font-size:1.4em;">
       <a href="https://www.linkedin.com/in/alvaro-pav%C3%B3n-mart%C3%ADnez-a1a87b241/" target="_blank" style="margin:0 10px; color:#0077b5; text-decoration:none;" title="LinkedIn">
         <i class="fab fa-linkedin"></i>
       </a>
@@ -21,9 +21,9 @@
       </a>
     </div>
   </div>
-  <div style="font-size:1.1em; line-height:1.6; color:#555; text-align:justify;">
+  <div style="font-size:1.2em; line-height:1.8; color:#34495e; text-align:justify;">
     <p>
-      Soy un Programador Junior y Analista en Ciberseguridad con una sólida formación en el ámbito informático, que abarca tanto estudios académicos como complementarios; actualmente curso el FPGS en Desarrollo de Aplicaciones Multiplataforma en el CDP Atlántida CIDEP y poseo un Certificado de Profesionalidad en Programación de Sistemas Informáticos por la Academia Galilea, complementado con cursos especializados en Ciberseguridad, un Master Completo en Java, Internet Seguro, Desarrollo de Apps Móviles, Comercio Electrónico, Cloud Computing e Introducción al Desarrollo Web, impartidos por instituciones y plataformas de prestigio. Mis competencias técnicas incluyen el manejo de lenguajes de programación como Python, Java, JavaScript, XML y HTML, además del uso de herramientas y entornos de desarrollo como IntelliJ IDEA, Eclipse, Visual Studio Code y DevC++, trabajando de forma eficiente en sistemas operativos Linux y Windows; todo ello se complementa con mi capacidad resolutiva, buena presencia, paciencia, dinamismo y puntualidad.
+      💻 Soy un <strong>Programador Junior</strong> y <strong>Analista en Ciberseguridad</strong> con una sólida formación en el ámbito informático, abarcando tanto estudios académicos como complementarios. Actualmente curso el <span style="color:#e67e22;">FPGS en Desarrollo de Aplicaciones Multiplataforma</span> en el CDP Atlántida CIDEP y poseo un <span style="color:#e67e22;">Certificado de Profesionalidad en Programación de Sistemas Informáticos</span> por la Academia Galilea. Además, he complementado mi formación con cursos especializados en <span style="color:#27ae60;">Ciberseguridad</span> (🔐), un <span style="color:#2980b9;">Master Completo en Java</span>, <span style="color:#8e44ad;">Internet Seguro</span>, <span style="color:#16a085;">Desarrollo de Apps Móviles</span>, <span style="color:#d35400;">Comercio Electrónico</span>, <span style="color:#c0392b;">Cloud Computing</span> e <span style="color:#f39c12;">Introducción al Desarrollo Web</span>. Mis competencias técnicas incluyen el manejo de lenguajes como <span style="color:#2ecc71;">Python</span>, <span style="color:#3498db;">Java</span>, <span style="color:#f1c40f;">JavaScript</span>, XML y HTML, así como el uso de herramientas y entornos de desarrollo como <span style="color:#9b59b6;">IntelliJ IDEA</span>, Eclipse, Visual Studio Code y DevC++, trabajando eficientemente en sistemas operativos Linux y Windows. Todo esto se complementa con mi capacidad resolutiva, buena presencia, paciencia, dinamismo y puntualidad.
     </p>
   </div>
 </div>
