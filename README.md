@@ -95,31 +95,25 @@
 
 ---
 
-<!-- Toque divertido: Contribuciones en forma de serpiente -->
+<!-- Toque divertido: Contribución en forma de serpiente -->
 <p align="center">
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/hnjm/hnjm/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/hnjm/hnjm/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="Animación de contribuciones (snake)"
-      src="https://raw.githubusercontent.com/hnjm/hnjm/output/github-contribution-grid-snake.svg"
-    />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hnjm/hnjm/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hnjm/hnjm/output/github-contribution-grid-snake.svg"/>
+    <img alt="Animación de contribuciones (snake)" src="https://raw.githubusercontent.com/hnjm/hnjm/output/github-contribution-grid-snake.svg"/>
   </picture>
 </p>
 
-<!-- Toque extra divertido: Meme de programación -->
-<h3 align="center">¡Humor de Programador!</h3>
+<!-- Toque extra similar: Serpiente invertida -->
 <p align="center">
-  "¿Por qué los programadores confunden Halloween con Navidad? ¡Porque Oct 31 es igual a Dec 25!"
+  <em>¡Observa la serpiente invertida, un reflejo dinámico de mis contribuciones!</em>
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Meme de Programación" width="300"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hnjm/hnjm/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hnjm/hnjm/output/github-contribution-grid-snake.svg"/>
+    <img style="transform: scaleX(-1);" alt="Animación de contribuciones (snake invertida)" src="https://raw.githubusercontent.com/hnjm/hnjm/output/github-contribution-grid-snake.svg"/>
+  </picture>
 </p>
 
 ---
@@ -141,17 +135,8 @@
 
 <p align="center">
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/hnjm/hnjm/output3d/profile-night-rainbow.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/hnjm/hnjm/output3d/profile-season-animate.svg"
-    />
-    <img
-      alt="Animación del Perfil"
-      src="https://raw.githubusercontent.com/hnjm/hnjm/output3d/profile-south-season-animate.svg"
-    />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hnjm/hnjm/output3d/profile-night-rainbow.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hnjm/hnjm/output3d/profile-season-animate.svg"/>
+    <img alt="Animación del Perfil" src="https://raw.githubusercontent.com/hnjm/hnjm/output3d/profile-south-season-animate.svg"/>
   </picture>
 </p>
