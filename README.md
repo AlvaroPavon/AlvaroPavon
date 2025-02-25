@@ -95,7 +95,7 @@
 
 ---
 
-<!-- Toque divertido: Contribución en forma de serpiente -->
+<!-- Animación de contribución en forma de serpiente (ya existente) -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hnjm/hnjm/output/github-contribution-grid-snake-dark.svg"/>
@@ -104,29 +104,19 @@
   </picture>
 </p>
 
-<!-- Toque extra similar: Animación de contribuciones invertida -->
+<!-- Animación temática de Dragon Ball basada en contribuciones -->
+<h3 align="center">¡Potencia tus contribuciones al estilo Dragon Ball!</h3>
 <p align="center">
-  <em>¡Observa la serpiente invertida, un reflejo dinámico de mis contribuciones!</em>
+  <em>Observa cómo tu energía se transforma en poderosas contribuciones, ¡como un Kamehameha!</em>
 </p>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hnjm/hnjm/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hnjm/hnjm/output/github-contribution-grid-snake.svg"/>
-    <img style="transform: scaleX(-1);" alt="Animación de contribuciones (snake invertida)" src="https://raw.githubusercontent.com/hnjm/hnjm/output/github-contribution-grid-snake.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/usuarioEjemplo/dbz-readme/main/dbz-contributions-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/usuarioEjemplo/dbz-readme/main/dbz-contributions.svg"/>
+    <img alt="Animación de contribuciones temática Dragon Ball" src="https://raw.githubusercontent.com/usuarioEjemplo/dbz-readme/main/dbz-contributions.svg"/>
   </picture>
-</p>
-
-<!-- Toque extra: Animación temática de Dragon Ball -->
-<h3 align="center">¡Desata tu poder al estilo Dragon Ball!</h3>
-<p align="center">
-  <em>¡Conviértete en un Super Saiyajin de las contribuciones!</em>
-</p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/usuarioEjemplo/dbz-theme/main/dbz-contributions-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/usuarioEjemplo/dbz-theme/main/dbz-contributions.svg"/>
-    <img alt="Animación de contribuciones temática Dragon Ball" src="https://raw.githubusercontent.com/usuarioEjemplo/dbz-theme/main/dbz-contributions.svg"/>
-  </picture>
+  <br>
+  <sub>(Reemplaza la URL por una animación real de temática Dragon Ball disponible en GitHub)</sub>
 </p>
 
 ---
