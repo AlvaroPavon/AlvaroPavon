@@ -1,29 +1,94 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+<h1 align="center">Hi there, I'm Álvaro Pavón 👨‍💻</h1>
+<h3 align="center">A passionate Programador Junior & Analista en Ciberseguridad 🚀</h3>
 
-<div style="max-width:800px; background:#fff; margin:20px auto; padding:30px; border-radius:10px; box-shadow:0 2px 10px rgba(0,0,0,0.1);">
-  <div style="text-align:center; margin-bottom:20px;">
-    <h1 style="margin:0; font-size:2.8em; color:#2c3e50;">👨‍💻 Álvaro Pavón 🚀</h1>
-    <div style="margin-top:20px; font-size:1.6em; display:flex; justify-content:center; gap:25px;">
-      <a href="https://www.linkedin.com/in/alvaro-pav%C3%B3n-mart%C3%ADnez-a1a87b241/" target="_blank" style="color:#0077b5; text-decoration:none;" title="LinkedIn">
-        <i class="fab fa-linkedin"></i> 🔗
-      </a>
-      <a href="https://github.com/AlvaroPavon" target="_blank" style="color:#333; text-decoration:none;" title="GitHub">
-        <i class="fab fa-github"></i> 💻
-      </a>
-      <a href="https://wa.me/34662443794/?text=Hola%21" target="_blank" style="color:#25D366; text-decoration:none;" title="WhatsApp">
-        <i class="fab fa-whatsapp"></i> 📲
-      </a>
-      <a href="https://app.hackthebox.com/profile/overview" target="_blank" style="color:#e74c3c; text-decoration:none;" title="HackTheBox">
-        <i class="fas fa-shield-alt"></i> 🛡️
-      </a>
-      <a href="mailto:alvaropavonmartinez7@gmail.com" style="color:#f39c12; text-decoration:none;" title="Email">
-        <i class="fas fa-envelope"></i> ✉️
-      </a>
-    </div>
-  </div>
-  <div style="font-size:1.2em; line-height:1.8; color:#34495e; text-align:justify;">
-    <p>
-      💻 Soy un <strong>Programador Junior</strong> <i class="fas fa-laptop-code" style="color:#2ecc71;"></i> 🚀 y <strong>Analista en Ciberseguridad</strong> <i class="fas fa-user-shield" style="color:#e74c3c;"></i> 🔒 con una sólida formación en el ámbito informático, abarcando tanto estudios académicos como complementarios 📚. Actualmente curso el <span style="color:#e67e22;">FPGS en Desarrollo de Aplicaciones Multiplataforma <i class="fas fa-graduation-cap"></i> 🎓</span> en el CDP Atlántida CIDEP y poseo un <span style="color:#e67e22;">Certificado de Profesionalidad en Programación de Sistemas Informáticos <i class="fas fa-certificate"></i> 🏆</span> por la Academia Galilea. Además, he complementado mi formación con cursos especializados en <span style="color:#27ae60;">Ciberseguridad <i class="fas fa-lock"></i> 🔐</span>, un <span style="color:#2980b9;">Master Completo en Java <i class="fas fa-coffee"></i> ☕</span>, <span style="color:#8e44ad;">Internet Seguro <i class="fas fa-globe"></i> 🌐</span>, <span style="color:#16a085;">Desarrollo de Apps Móviles <i class="fas fa-mobile-alt"></i> 📱</span>, <span style="color:#d35400;">Comercio Electrónico <i class="fas fa-shopping-cart"></i> 🛒</span>, <span style="color:#c0392b;">Cloud Computing <i class="fas fa-cloud"></i> ☁️</span> e <span style="color:#f39c12;">Introducción al Desarrollo Web <i class="fas fa-code"></i> 👨‍💻</span>. Mis competencias técnicas incluyen el manejo de lenguajes como <span style="color:#2ecc71;">Python <i class="fab fa-python"></i> 🐍</span>, <span style="color:#3498db;">Java <i class="fab fa-java"></i> ☕</span>, <span style="color:#f1c40f;">JavaScript <i class="fab fa-js-square"></i> 💡</span>, XML <i class="fas fa-code"></i> 📄 y <span style="color:#e34c26;">HTML <i class="fab fa-html5"></i> 🌟</span>, así como el uso de herramientas y entornos de desarrollo como <span style="color:#9b59b6;">IntelliJ IDEA <i class="fas fa-lightbulb"></i> 💡</span>, Eclipse <i class="fas fa-cogs"></i> ⚙️, Visual Studio Code <i class="fas fa-edit"></i> 📝 y DevC++ <i class="fas fa-terminal"></i> ⌨️, trabajando eficientemente en sistemas operativos <span style="color:#f39c12;">Linux <i class="fab fa-linux"></i> 🐧</span> y <span style="color:#0078d7;">Windows <i class="fab fa-windows"></i> 🪟</span>. Todo esto se complementa con mi capacidad resolutiva <i class="fas fa-check-circle" style="color:#27ae60;"></i> ✔️, buena presencia 😎, paciencia ⏳, dinamismo ⚡ y puntualidad ⏰.
-    </p>
-  </div>
-</div>
+**AlvaroPavon/AlvaroPavon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+- 💻 I’m currently studying **FPGS en Desarrollo de Aplicaciones Multiplataforma** at CDP Atlántida CIDEP.
+- 🎓 I hold a **Certificado de Profesionalidad en Programación de Sistemas Informáticos** from Academia Galilea.
+- 🔒 I have complemented my academic training with specialized courses in **Ciberseguridad**, **Master Completo en Java**, **Internet Seguro**, **Desarrollo de Apps Móviles**, **Comercio Electrónico**, **Cloud Computing** and **Introducción al Desarrollo Web**.
+- 🌐 I work with technologies like **Python**, **Java**, **JavaScript**, **HTML**, and **XML**, along with development tools such as **IntelliJ IDEA**, **Eclipse**, **Visual Studio Code**, and **DevC++**.
+- 📫 You can reach me at **[alvaropavonmartinez7@gmail.com](mailto:alvaropavonmartinez7@gmail.com)** or connect with me on [LinkedIn](https://www.linkedin.com/in/alvaro-pav%C3%B3n-mart%C3%ADnez-a1a87b241/), [GitHub](https://github.com/AlvaroPavon), [WhatsApp](https://wa.me/34662443794/?text=Hola%21) and [HackTheBox](https://app.hackthebox.com/profile/overview).
+
+---
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+  </a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-plain.svg" alt="intellij" width="40" height="40"/>
+  </a>
+  <a href="https://www.eclipse.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="eclipse" width="40" height="40"/>
+  </a>
+  <!-- DevC++ doesn't have an official icon, so using a C++ icon -->
+  <a href="https://www.isoftwareworld.com/devcpp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+</p>
+
+## 📊 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlvaroPavon&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=AlvaroPavon&show_icons=true&theme=dark"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api?username=AlvaroPavon&show_icons=true"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=AlvaroPavon&show_icons=true" alt="GitHub Stats" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://streak-stats.demolab.com/?user=AlvaroPavon&theme=dark"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://streak-stats.demolab.com/?user=AlvaroPavon"
+    />
+    <img src="https://streak-stats.demolab.com/?user=AlvaroPavon" alt="GitHub Streak" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/hnjm/hnjm/output3d/profile-night-rainbow.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/hnjm/hnjm/output3d/profile-season-animate.svg"
+    />
+    <img
+      alt="Profile Animation"
+      src="https://raw.githubusercontent.com/hnjm/hnjm/output3d/profile-south-season-animate.svg"
+    />
+  </picture>
+</p>
