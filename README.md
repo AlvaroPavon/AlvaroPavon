@@ -104,10 +104,29 @@
   </picture>
 </p>
 
-<!-- Toque extra: Animación temática de Dragon Ball (Kamehameha) -->
-<h3 align="center">¡Activa tu poder al estilo Dragon Ball!</h3>
+<!-- Toque extra similar: Animación de contribuciones invertida -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26tPoyDhjiJ2g7rEs/giphy.gif" alt="Dragon Ball Kamehameha" width="300"/>
+  <em>¡Observa la serpiente invertida, un reflejo dinámico de mis contribuciones!</em>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hnjm/hnjm/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hnjm/hnjm/output/github-contribution-grid-snake.svg"/>
+    <img style="transform: scaleX(-1);" alt="Animación de contribuciones (snake invertida)" src="https://raw.githubusercontent.com/hnjm/hnjm/output/github-contribution-grid-snake.svg"/>
+  </picture>
+</p>
+
+<!-- Toque extra: Animación temática de Dragon Ball -->
+<h3 align="center">¡Desata tu poder al estilo Dragon Ball!</h3>
+<p align="center">
+  <em>¡Conviértete en un Super Saiyajin de las contribuciones!</em>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/usuarioEjemplo/dbz-theme/main/dbz-contributions-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/usuarioEjemplo/dbz-theme/main/dbz-contributions.svg"/>
+    <img alt="Animación de contribuciones temática Dragon Ball" src="https://raw.githubusercontent.com/usuarioEjemplo/dbz-theme/main/dbz-contributions.svg"/>
+  </picture>
 </p>
 
 ---
