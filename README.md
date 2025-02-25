@@ -1,13 +1,13 @@
-<h1 align="center">Hi there, I'm Álvaro Pavón 👨‍💻</h1>
-<h3 align="center">A passionate Programador Junior & Analista en Ciberseguridad 🚀</h3>
+<h1 align="center">Hi there, I'm Álvaro Pavón Martínez 👨‍💻</h1>
+<h3 align="center">IT Project Manager | Programador Junior | Analista en Ciberseguridad 🚀</h3>
 
 **AlvaroPavon/AlvaroPavon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 💻 I’m currently studying **FPGS en Desarrollo de Aplicaciones Multiplataforma** at CDP Atlántida CIDEP.
-- 🎓 I hold a **Certificado de Profesionalidad en Programación de Sistemas Informáticos** from Academia Galilea.
-- 🔒 I have complemented my academic training with specialized courses in **Ciberseguridad**, **Master Completo en Java**, **Internet Seguro**, **Desarrollo de Apps Móviles**, **Comercio Electrónico**, **Cloud Computing** and **Introducción al Desarrollo Web**.
-- 🌐 I work with technologies like **Python**, **Java**, **JavaScript**, **HTML**, and **XML**, along with development tools such as **IntelliJ IDEA**, **Eclipse**, **Visual Studio Code**, and **DevC++**.
-- 📫 You can reach me at **[alvaropavonmartinez7@gmail.com](mailto:alvaropavonmartinez7@gmail.com)** or connect with me on [LinkedIn](https://www.linkedin.com/in/alvaro-pav%C3%B3n-mart%C3%ADnez-a1a87b241/), [GitHub](https://github.com/AlvaroPavon), [WhatsApp](https://wa.me/34662443794/?text=Hola%21) and [HackTheBox](https://app.hackthebox.com/profile/overview).
+- 💻 I have solid experience in the IT sector, covering technology sales, customer service, and application development.
+- 🎓 I'm currently pursuing an **FPGS in Desarrollo de Aplicaciones Multiplataforma** at CDP Atlántida CIDEP and hold a **Certificado de Profesionalidad en Programación de Sistemas Informáticos** from Academia Galilea.
+- 🔒 I've also enhanced my expertise with specialized courses in **Ciberseguridad**, **Master Completo en Java**, **Internet Seguro**, **Desarrollo de Apps Móviles**, **Comercio Electrónico**, **Cloud Computing**, and **Introducción al Desarrollo Web**.
+- 🌐 I work with technologies such as **Python**, **Java**, **JavaScript**, **HTML**, and **XML**, and I’m proficient with tools like **IntelliJ IDEA**, **Eclipse**, **Visual Studio Code**, and **DevC++**.
+- 📫 Feel free to reach out at **[alvaropavonmartinez7@gmail.com](mailto:alvaropavonmartinez7@gmail.com)** or connect with me on [LinkedIn](https://www.linkedin.com/in/alvaropavonmartinez/), [GitHub](https://github.com/AlvaroPavon), [WhatsApp](https://wa.me/34662443794/?text=Hola%21) and [HackTheBox](https://app.hackthebox.com/profile/overview).
 
 ---
 
@@ -37,7 +37,7 @@
   <a href="https://www.eclipse.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="eclipse" width="40" height="40"/>
   </a>
-  <!-- DevC++ doesn't have an official icon, so using a C++ icon -->
+  <!-- Using C++ icon as a proxy for DevC++ -->
   <a href="https://www.isoftwareworld.com/devcpp/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
