@@ -95,6 +95,26 @@
 
 ---
 
+<!-- Toque divertido -->
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/hnjm/hnjm/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/hnjm/hnjm/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="Animación de contribuciones (snake)"
+      src="https://raw.githubusercontent.com/hnjm/hnjm/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
+
+---
+
 <h3 align="left">Mis Estadísticas de GitHub:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlvaroPavon&show_icons=true&locale=es&layout=compact&theme=radical" alt="Lenguajes Principales" />
@@ -123,24 +143,6 @@
     <img
       alt="Animación del Perfil"
       src="https://raw.githubusercontent.com/hnjm/hnjm/output3d/profile-south-season-animate.svg"
-    />
-  </picture>
-</p>
-
-<!-- Toque divertido -->
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/hnjm/hnjm/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/hnjm/hnjm/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="Animación de contribuciones (snake)"
-      src="https://raw.githubusercontent.com/hnjm/hnjm/output/github-contribution-grid-snake.svg"
     />
   </picture>
 </p>
