@@ -1,0 +1,18 @@
+name: GitHub - Commit Activity Graph
+
+on:
+  schedule:
+    - cron: "0 21 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: ashutosh00710/github-readme-activity-graph@v1
+        with:
+          username: AlvaroPavon
+          bg_color: "ffffff"
+          color: "000000"
+          line: "f75c7e"
+          point: "000000"
