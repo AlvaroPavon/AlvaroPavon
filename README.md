@@ -72,7 +72,7 @@
       media="(prefers-color-scheme: light)"
       srcset="https://streak-stats.demolab.com/?user=AlvaroPavon"
     />
-    <img src="https://streak-stats.demolab.com/?user=AlvaroPavon" alt="GitHub Streak" />
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AlvaroPavon(AlvaroPM)&hide_border=true&locale=es&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
   </picture>
 </p>
 
