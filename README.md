@@ -38,7 +38,7 @@ Si tienes un proyecto interesante o una oferta, ¡no dudes en contactarme!
     <img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp" width="40" height="40"/>
   </a>
   <a href="https://app.hackthebox.com/profile/overview" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/hackthebox.svg" alt="HackTheBox" width="40" height="40"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/hack-the-box.png" alt="HackTheBox" width="40" height="40"/>
   </a>
 </p>
 
@@ -49,63 +49,96 @@ Si tienes un proyecto interesante o una oferta, ¡no dudes en contactarme!
 <p align="left">
   <!-- Python -->
   <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
   <!-- Java -->
   <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a>
   <!-- Kotlin -->
   <a href="https://kotlinlang.org" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="kotlin" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin" width="40" height="40"/>
   </a>
   <!-- JavaScript -->
   <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
   <!-- PHP -->
   <a href="https://www.php.net" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   </a>
   <!-- Odoo -->
   <a href="https://www.odoo.com" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/odoo.svg" alt="odoo" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/odoo.svg" alt="Odoo" width="40" height="40"/>
   </a>
   <!-- Docker -->
   <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   </a>
   <!-- SQL (MySQL) -->
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   </a>
   <!-- HTML5 -->
   <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   </a>
   <!-- CSS3 -->
   <a href="https://www.w3.org/Style/CSS/Overview.es.html" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   </a>
   <!-- Android Studio -->
   <a href="https://developer.android.com/studio" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/>
   </a>
   <!-- Visual Studio Code -->
   <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   </a>
   <!-- IntelliJ IDEA -->
   <a href="https://www.jetbrains.com/idea/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-plain.svg" alt="intellij" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-plain.svg" alt="IntelliJ IDEA" width="40" height="40"/>
   </a>
   <!-- Eclipse -->
   <a href="https://www.eclipse.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="eclipse" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40" height="40"/>
   </a>
   <!-- DevC++ (C++) -->
   <a href="https://www.isoftwareworld.com/devcpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+</p>
+
+### Sistemas Operativos
+
+<p align="left">
+  <!-- Windows -->
+  <a href="https://www.microsoft.com/windows" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
+  </a>
+  <!-- Linux -->
+  <a href="https://www.linux.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  </a>
+  <!-- Ubuntu -->
+  <a href="https://ubuntu.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/>
+  </a>
+  <!-- Kali Linux -->
+  <a href="https://www.kali.org" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/kali-linux-1.svg" alt="Kali Linux" width="40" height="40"/>
+  </a>
+  <!-- macOS -->
+  <a href="https://www.apple.com/macos" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="macOS" width="40" height="40"/>
+  </a>
+  <!-- iOS -->
+  <a href="https://www.apple.com/ios" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/iphone.png" alt="iOS" width="40" height="40"/>
+  </a>
+  <!-- Android -->
+  <a href="https://www.android.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
   </a>
 </p>
 
