@@ -1,0 +1,34 @@
+name: generate 3d chart for profile contributions
+
+on:
+  # Ejecutar automáticamente cada 24 horas
+  schedule:
+    - cron: "*/1 * * * *"
+  
+  # Permite ejecutar el workflow manualmente
+  workflow_dispatch:
+  
+  # Se activa en cada push a la rama main
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          
+      # Publica los archivos generados en la rama "output3d"
+      - name: push SVGs to the output-3d branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output3d
+          build_dir: profile-3d-contrib
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -96,9 +96,9 @@
 <!-- Animación de contribución en forma de serpiente -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hnjm/hnjm/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hnjm/hnjm/output/github-contribution-grid-snake.svg"/>
-    <img alt="Animación de contribuciones (snake)" src="https://raw.githubusercontent.com/hnjm/hnjm/output/github-contribution-grid-snake.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlvaroPavon/AlvaroPavon/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlvaroPavon/AlvaroPavon/output/github-contribution-grid-snake.svg"/>
+    <img alt="Animación de contribuciones (snake)" src="https://raw.githubusercontent.com/AlvaroPavon/AlvaroPavon/output/github-contribution-grid-snake.svg"/>
   </picture>
 </p>
 
@@ -129,8 +129,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hnjm/hnjm/output3d/profile-night-rainbow.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hnjm/hnjm/output3d/profile-season-animate.svg"/>
-    <img alt="Animación del Perfil" src="https://raw.githubusercontent.com/hnjm/hnjm/output3d/profile-south-season-animate.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlvaroPavon/AlvaroPavon/output3d/profile-night-rainbow.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlvaroPavon/AlvaroPavon/output3d/profile-season-animate.svg"/>
+    <img alt="Animación del Perfil" src="https://raw.githubusercontent.com/AlvaroPavon/AlvaroPavon/output3d/profile-south-season-animate.svg"/>
   </picture>
 </p>
