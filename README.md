@@ -24,12 +24,23 @@ Si tienes un proyecto interesante o una oferta, ¡no dudes en contactarme!
 
 ## Contacto
 
-Puedes comunicarte conmigo a través de los siguientes canales:
-- **Email:** [alvaropavonmartinez7@gmail.com](mailto:alvaropavonmartinez7@gmail.com)
-- **LinkedIn:** [AlvaroPavonMartinez](https://www.linkedin.com/in/alvaropavonmartinez/)
-- **GitHub:** [AlvaroPavon](https://github.com/AlvaroPavon)
-- **WhatsApp:** [Enviar mensaje](https://wa.me/34662443794/?text=Hola%21)
-- **HackTheBox:** [Mi perfil](https://app.hackthebox.com/profile/overview)
+<p align="center">
+  <a href="mailto:alvaropavonmartinez7@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/000000/email-open.png" alt="Email" width="40" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/alvaropavonmartinez/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/AlvaroPavon" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="https://wa.me/34662443794/?text=Hola%21" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp" width="40" height="40"/>
+  </a>
+  <a href="https://app.hackthebox.com/profile/overview" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/hackthebox.svg" alt="HackTheBox" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
