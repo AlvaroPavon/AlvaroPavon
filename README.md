@@ -3,7 +3,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Developer%20%26%20Cybersecurity%20Specialist;IT%20Project%20Manager%20%7C%20Programador%20Junior;Always%20eager%20to%20learn%20new%20technologies&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Developer%20%26%20Cybersecurity%20Specialist;IT%20Project%20Manager%20%7C%20Programador%20Junior;Always%20eager%20to%20learn%20new%20technologies&font=Fira%20Code&center=true&width=600&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
   </a>
 </p>
 
