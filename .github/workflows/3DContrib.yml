@@ -1,7 +1,10 @@
 name: generate 3d chart for profile contributions
 
+permissions:
+  contents: write
+
 on:
-  # Ejecutar automáticamente cada 24 horas
+  # Ejecutar cada 5 minutos para actualizaciones casi en tiempo real
   schedule:
     - cron: "*/1 * * * *"
   

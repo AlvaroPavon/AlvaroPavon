@@ -1,7 +1,10 @@
 name: generate animation
 
+permissions:
+  contents: write
+
 on:
-  # Ejecutar automáticamente cada 24 horas
+  # Ejecutar cada 5 minutos para actualizaciones casi en tiempo real
   schedule:
     - cron: "*/1 * * * *"
   
@@ -15,13 +18,11 @@ on:
 
 jobs:
   generate:
-    permissions: 
-      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
     
     steps:
-      # Genera la animación tipo "snake" a partir del gráfico de contribuciones del usuario
+      # Genera la animación "snake" a partir de tus contribuciones
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
