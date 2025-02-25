@@ -3,7 +3,7 @@
 
 **AlvaroPavon/AlvaroPavon** es un repositorio ✨ _especial_ ✨ porque su `README.md` aparece en tu perfil de GitHub.
 
-- 💻 Tengo experiencia en el sector de la informática, tanto en la venta y asesoramiento de dispositivos como en el desarrollo de aplicaciones utilizando diversos lenguajes de programación como Java, Python, Kotlin y JavaScript.
+- 💻 Tengo experiencia en el sector de la informática, tanto en la venta y asesoramiento de dispositivos como en el desarrollo de aplicaciones utilizando diversos lenguajes de programación como Java, Python, Kotlin, JavaScript, PHP y Odoo.
 - 🔐 Soy un apasionado de la programación y la ciberseguridad, y he complementado mi formación con cursos especializados y certificaciones.
 - 🎓 Actualmente curso un **Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Multiplataforma** en Atlántida Formación y poseo un **Certificado de Profesionalidad en Programación de Sistemas Informáticos**.
 - 🚀 He trabajado en proyectos que abarcan desde el desarrollo de aplicaciones móviles hasta soluciones web y de escritorio.
@@ -29,7 +29,15 @@
   <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
-  <!-- SQL -->
+  <!-- PHP -->
+  <a href="https://www.php.net" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  </a>
+  <!-- Odoo -->
+  <a href="https://www.odoo.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Odoo_logo.png" alt="odoo" width="40" height="40"/>
+  </a>
+  <!-- SQL (MySQL) -->
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
   </a>
@@ -44,6 +52,10 @@
   <!-- Android Studio -->
   <a href="https://developer.android.com/studio" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="40" height="40"/>
+  </a>
+  <!-- Docker -->
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
   </a>
   <!-- Visual Studio Code -->
   <a href="https://code.visualstudio.com/" target="_blank">
