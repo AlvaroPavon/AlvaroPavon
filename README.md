@@ -15,9 +15,9 @@
 
 ---
 
-## Colaboraciones & Trabajo
+## Colaboraciones & Open to Work
 
-Estoy abierto a colaborar en proyectos de desarrollo y ciberseguridad, y actualmente me encuentro **disponible** para nuevas oportunidades profesionales.  
+Estoy abierto a colaborar en proyectos de desarrollo y ciberseguridad, y actualmente me encuentro **open to work** para nuevas oportunidades profesionales.  
 Si tienes un proyecto interesante o una oferta, ¡no dudes en contactarme!
 
 ---
@@ -38,7 +38,7 @@ Si tienes un proyecto interesante o una oferta, ¡no dudes en contactarme!
     <img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp" width="40" height="40"/>
   </a>
   <a href="https://app.hackthebox.com/profile/overview" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/hack-the-box.png" alt="HackTheBox" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/hackthebox.svg" alt="HackTheBox" width="40" height="40"/>
   </a>
 </p>
 
@@ -126,7 +126,7 @@ Si tienes un proyecto interesante o una oferta, ¡no dudes en contactarme!
   </a>
   <!-- Kali Linux -->
   <a href="https://www.kali.org" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/kali-linux-1.svg" alt="Kali Linux" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/kali-linux.svg" alt="Kali Linux" width="40" height="40"/>
   </a>
   <!-- macOS -->
   <a href="https://www.apple.com/macos" target="_blank">
