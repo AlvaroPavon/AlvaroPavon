@@ -114,7 +114,7 @@
 
 <h3 align="left">Mis Estadísticas de GitHub:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlvaroPavon&show_icons=true&locale=es&layout=compact&theme=radical" alt="Lenguajes Principales" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlvaroPavon&show_icons=true&locale=es&layout=compact&theme=radical&cache_seconds=0" alt="Lenguajes Principales" />
 </p>
 
 <p align="center">
