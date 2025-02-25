@@ -17,7 +17,7 @@
 
 ## Colaboraciones & Open to Work
 
-Estoy abierto a colaborar en proyectos de desarrollo y ciberseguridad, y actualmente me encuentro **open to work** para nuevas oportunidades profesionales.  
+Estoy abierto a colaborar en proyectos de desarrollo y ciberseguridad, y actualmente me encuentro **disponible** para nuevas oportunidades profesionales.  
 Si tienes un proyecto interesante o una oferta, ¡no dudes en contactarme!
 
 ---
