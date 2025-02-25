@@ -1,5 +1,11 @@
 <h1 align="center">Hola, soy Álvaro Pavón Martínez 👨‍💻</h1>
-<h3 align="center">Developer 💻 & Cybersecurity 🔐 | IT Project Manager | Programador Junior</h3>
+
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Developer%20%26%20Cybersecurity%20Specialist;IT%20Project%20Manager%20%7C%20Programador%20Junior;Always%20eager%20to%20learn%20new%20technologies&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+  </a>
+</p>
 
 - 💻 Tengo experiencia en el sector de la informática, tanto en la venta y asesoramiento de dispositivos como en el desarrollo de aplicaciones utilizando diversos lenguajes de programación. Mi pasión es la programación: disfruto resolviendo problemas y creando soluciones innovadoras.
 - 🔐 Me especializo en ciberseguridad y desarrollo de aplicaciones, trabajando con tecnologías como Java, Python, Kotlin, JavaScript, PHP, Odoo y Docker.
@@ -188,10 +194,9 @@ Si tienes un proyecto interesante o una oferta, ¡no dudes en contactarme!
     <img src="https://streak-stats.demolab.com?user=AlvaroPavon&hide_border=true&locale=es&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="Racha de GitHub" />
   </a>
 </p>
+
+## Mi actividad en GitHub
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlvaroPavon/AlvaroPavon/output3d/profile-night-rainbow.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlvaroPavon/AlvaroPavon/output3d/profile-season-animate.svg"/>
-    <img alt="Animación del Perfil" src="https://raw.githubusercontent.com/AlvaroPavon/AlvaroPavon/output3d/profile-south-season-animate.svg"/>
-  </picture>
+  <img src="https://activity-graph.herokuapp.com/graph?username=AlvaroPavon&bg_color=ffffff&color=000000&line=f75c7e&point=000000" alt="Actividad de AlvaroPavon" />
 </p>
