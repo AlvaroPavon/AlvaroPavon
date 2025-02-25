@@ -198,5 +198,6 @@ Si tienes un proyecto interesante o una oferta, ¡no dudes en contactarme!
 ## Mi actividad en GitHub
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=AlvaroPavon&bg_color=ffffff&color=000000&line=f75c7e&point=000000" alt="Actividad de AlvaroPavon" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlvaroPavon&bg_color=ffffff&color=000000&line=f75c7e&point=000000" alt="Actividad de AlvaroPavon" />
 </p>
+
