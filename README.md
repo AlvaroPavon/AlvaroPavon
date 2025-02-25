@@ -1,8 +1,6 @@
 <h1 align="center">Hola, soy Álvaro Pavón Martínez 👨‍💻</h1>
 <h3 align="center">Developer 💻 & Cybersecurity 🔐 | IT Project Manager | Programador Junior</h3>
 
-**AlvaroPavon/AlvaroPavon** es un repositorio ✨ _especial_ ✨ porque su `README.md` aparece en tu perfil de GitHub.
-
 - 💻 Tengo experiencia en el sector de la informática, tanto en la venta y asesoramiento de dispositivos como en el desarrollo de aplicaciones utilizando diversos lenguajes de programación. Mi pasión es la programación: disfruto resolviendo problemas y creando soluciones innovadoras.
 - 🔐 Me especializo en ciberseguridad y desarrollo de aplicaciones, trabajando con tecnologías como Java, Python, Kotlin, JavaScript, PHP, Odoo y Docker.
 - 🎓 Actualmente curso un **Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Multiplataforma** en Atlántida Formación y poseo un **Certificado de Profesionalidad en Programación de Sistemas Informáticos**.
