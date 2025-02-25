@@ -95,10 +95,7 @@
 
 ---
 
-<!-- Toque divertido -->
-<p align="center">
-  <em>¡Diviértete viendo cómo mis contribuciones se convierten en una serpiente digital tan ágil como mi código!</em>
-</p>
+<!-- Toque divertido: Contribuciones en forma de serpiente -->
 <p align="center">
   <picture>
     <source
@@ -114,6 +111,15 @@
       src="https://raw.githubusercontent.com/hnjm/hnjm/output/github-contribution-grid-snake.svg"
     />
   </picture>
+</p>
+
+<!-- Toque extra divertido: Meme de programación -->
+<h3 align="center">¡Humor de Programador!</h3>
+<p align="center">
+  "¿Por qué los programadores confunden Halloween con Navidad? ¡Porque Oct 31 es igual a Dec 25!"
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Meme de Programación" width="300"/>
 </p>
 
 ---
