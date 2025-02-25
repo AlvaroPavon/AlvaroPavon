@@ -12,11 +12,29 @@
   - 🛒 **Comercio Electrónico** | Escuela de Organización Industrial (Google) (2019)
   - ☁️ **Cloud Computing** | Escuela de Organización Industrial (Google) (2019)
   - 💻 **Introducción al Desarrollo Web** | Instituto de Economía Internacional (Google) (2017)
-- 📫 Puedes contactarme en **[alvaropavonmartinez7@gmail.com](mailto:alvaropavonmartinez7@gmail.com)** o conectarte conmigo en [LinkedIn](https://www.linkedin.com/in/alvaropavonmartinez/), [GitHub](https://github.com/AlvaroPavon), [WhatsApp](https://wa.me/34662443794/?text=Hola%21) y [HackTheBox](https://app.hackthebox.com/profile/overview).
 
 ---
 
-<h3 align="left">Lenguajes y Herramientas:</h3>
+## Colaboraciones & Open to Work
+
+Estoy abierto a colaborar en proyectos de desarrollo y ciberseguridad, y actualmente me encuentro **open to work** para nuevas oportunidades profesionales.  
+Si tienes un proyecto interesante o una oferta, ¡no dudes en contactarme!
+
+---
+
+## Contacto
+
+Puedes comunicarte conmigo a través de los siguientes canales:
+- **Email:** [alvaropavonmartinez7@gmail.com](mailto:alvaropavonmartinez7@gmail.com)
+- **LinkedIn:** [AlvaroPavonMartinez](https://www.linkedin.com/in/alvaropavonmartinez/)
+- **GitHub:** [AlvaroPavon](https://github.com/AlvaroPavon)
+- **WhatsApp:** [Enviar mensaje](https://wa.me/34662443794/?text=Hola%21)
+- **HackTheBox:** [Mi perfil](https://app.hackthebox.com/profile/overview)
+
+---
+
+## Lenguajes y Herramientas
+
 <p align="left">
   <!-- Python -->
   <a href="https://www.python.org" target="_blank">
@@ -82,7 +100,8 @@
 
 ---
 
-<h3 align="left">Cursos y Certificaciones:</h3>
+## Cursos y Certificaciones
+
 - 🔐 **Cibersecurity Initiation Master’s Degree** | The Valley Digital Business School (2023)
 - ☕ **Master Completo en Java** | Udemy (2022)
 - 🌐 **Internet Seguro** | KLC Formación (2021)
@@ -93,6 +112,8 @@
 
 ---
 
+## Animaciones y Estadísticas
+
 <!-- Animación de contribución en forma de serpiente -->
 <p align="center">
   <picture>
@@ -102,7 +123,7 @@
   </picture>
 </p>
 
-<!-- Animación extra: Tarjeta de Trofeos GitHub (dinámica y animada) -->
+<!-- Tarjeta de Trofeos GitHub -->
 <h3 align="center">¡Mira mis Trofeos de GitHub en acción!</h3>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -110,23 +131,19 @@
   </a>
 </p>
 
----
-
+<!-- Estadísticas de GitHub -->
 <h3 align="left">Mis Estadísticas de GitHub:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlvaroPavon&show_icons=true&locale=es&layout=compact&theme=radical&cache_seconds=0" alt="Lenguajes Principales" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlvaroPavon&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
 </p>
-
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=AlvaroPavon&hide_border=true&locale=es&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="Racha de GitHub" />
   </a>
 </p>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlvaroPavon/AlvaroPavon/output3d/profile-night-rainbow.svg"/>
