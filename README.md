@@ -95,7 +95,7 @@
 
 ---
 
-<!-- Animación de contribución en forma de serpiente (ya existente) -->
+<!-- Animación de contribución en forma de serpiente -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hnjm/hnjm/output/github-contribution-grid-snake-dark.svg"/>
@@ -104,19 +104,12 @@
   </picture>
 </p>
 
-<!-- Animación temática de Dragon Ball basada en contribuciones -->
-<h3 align="center">¡Potencia tus contribuciones al estilo Dragon Ball!</h3>
+<!-- Animación extra: Tarjeta de Trofeos GitHub (dinámica y animada) -->
+<h3 align="center">¡Mira mis Trofeos de GitHub en acción!</h3>
 <p align="center">
-  <em>Observa cómo tu energía se transforma en poderosas contribuciones, ¡como un Kamehameha!</em>
-</p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/usuarioEjemplo/dbz-readme/main/dbz-contributions-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/usuarioEjemplo/dbz-readme/main/dbz-contributions.svg"/>
-    <img alt="Animación de contribuciones temática Dragon Ball" src="https://raw.githubusercontent.com/usuarioEjemplo/dbz-readme/main/dbz-contributions.svg"/>
-  </picture>
-  <br>
-  <sub>(Reemplaza la URL por una animación real de temática Dragon Ball disponible en GitHub)</sub>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=AlvaroPavon&theme=radical&no-frame=true&column=7" alt="GitHub Trophy" />
+  </a>
 </p>
 
 ---
