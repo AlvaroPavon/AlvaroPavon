@@ -97,6 +97,9 @@
 
 <!-- Toque divertido -->
 <p align="center">
+  <em>¡Diviértete viendo cómo mis contribuciones se convierten en una serpiente digital tan ágil como mi código!</em>
+</p>
+<p align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
