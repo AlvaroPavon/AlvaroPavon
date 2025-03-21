@@ -162,7 +162,7 @@ Si tienes un proyecto interesante o una oferta, ¡no dudes en contactarme!
 
 ---
 
-## Animaciones y Estadísticas
+## Estadísticas
 
 <!-- Animación de contribución en forma de serpiente -->
 <p align="center">
@@ -182,7 +182,6 @@ Si tienes un proyecto interesante o una oferta, ¡no dudes en contactarme!
 </p>
 
 <!-- Estadísticas de GitHub -->
-<h3 align="left">Mis Estadísticas de GitHub:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlvaroPavon&show_icons=true&locale=es&layout=compact&theme=radical&cache_seconds=0" alt="Lenguajes Principales" />
 </p>
