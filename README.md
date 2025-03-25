@@ -37,9 +37,6 @@ Si tienes un proyecto interesante o una oferta, ¡no dudes en contactarme!
   <a href="https://www.linkedin.com/in/alvaropavonmartinez/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://github.com/AlvaroPavon" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  </a>
   <a href="https://wa.me/34662443794/?text=Hola%21" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp" width="40" height="40"/>
   </a>
