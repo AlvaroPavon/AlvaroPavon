@@ -100,7 +100,7 @@ Si tienes un proyecto interesante o una oferta, ¡no dudes en contactarme!
     <img src="assets/powerbi.svg" alt="Power BI" width="40" height="40"/>
   </a>
   <a href="https://learn.microsoft.com/es-es/power-apps/maker/data-platform/data-platform-intro" target="_blank">
-    <img src="assets/dataverse.svg" alt="Dataverse" width="40" height="40"/>
+    <img src="[assets/dataverse.svg](https://www.vernegroup.com/wp-content/uploads/2024/07/Imagen2-2.png)" alt="Dataverse" width="40" height="40"/>
   </a>
 
   <a href="https://developer.android.com/studio" target="_blank">
