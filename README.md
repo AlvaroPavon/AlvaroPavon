@@ -84,22 +84,22 @@ Si tienes un proyecto interesante o una oferta, ¡no dudes en contactarme!
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
   
-  <a href="https://learn.microsoft.com/es-es/dynamics365/business-central/dev-itpro/developer/devenv-al-overview" target="_blank">
+  <a href="https://learn.microsoft.com/es-es/dynamics365/business-central/dev-itpro/developer/devenv-al-overview" target="_blank" style="margin: 0 3px;">
     <img src="https://ms-dynamics-smb.gallerycdn.vsassets.io/extensions/ms-dynamics-smb/al/16.0.1493797/1746803858000/Microsoft.VisualStudio.Services.Icons.Default" alt="AL Language" width="40" height="40"/>
-    </a>
-  <a href="https://dynamics.microsoft.com/es-es/" target="_blank">
+  </a>
+  <a href="https://dynamics.microsoft.com/es-es/" target="_blank" style="margin: 0 3px;">
     <img src="https://es.smartsheet.com/sites/default/files/2023-09/Microsoft-Dynamics-365-Logo-full.png" alt="Microsoft Dynamics 365" width="40" height="40"/>
   </a>
-  <a href="https://powerapps.microsoft.com/es-es/" target="_blank">
+  <a href="https://powerapps.microsoft.com/es-es/" target="_blank" style="margin: 0 3px;">
     <img src="https://www.vernegroup.com/wp-content/uploads/2024/07/Imagen2-2.png" alt="Power Apps" width="40" height="40"/>
   </a>
-  <a href="https://powerautomate.microsoft.com/es-es/" target="_blank">
+  <a href="https://powerautomate.microsoft.com/es-es/" target="_blank" style="margin: 0 3px;">
     <img src="https://mitto.ch/wp-content/uploads/2023/01/automate-logo-540x540-1.png" alt="Power Automate" width="40" height="40"/>
   </a>
-  <a href="https://powerbi.microsoft.com/es-es/" target="_blank">
+  <a href="https://powerbi.microsoft.com/es-es/" target="_blank" style="margin: 0 3px;">
     <img src="https://www.pngmart.com/files/23/Power-Bi-Logo-PNG-Pic.png" alt="Power BI" width="40" height="40"/>
   </a>
-  <a href="https://learn.microsoft.com/es-es/power-apps/maker/data-platform/data-platform-intro" target="_blank">
+  <a href="https://learn.microsoft.com/es-es/power-apps/maker/data-platform/data-platform-intro" target="_blank" style="margin: 0 3px;">
     <img src="https://irp.cdn-website.com/0410a4de/dms3rep/multi/dataverse.png" alt="Dataverse" width="40" height="40"/>
   </a>
 
