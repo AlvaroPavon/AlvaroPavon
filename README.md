@@ -121,7 +121,7 @@ Si tienes un proyecto interesante o una oferta, ¡no dudes en contactarme!
 
 <p align="left">
   <a href="https://www.microsoft.com/windows" target="_blank">
-    <img src="https://cdn.simpleicons.org/windows11" alt="Windows 11" width="40" height="40"/>
+    <img src="https://www.citypng.com/public/uploads/preview/hd-windows-11-logo-icon-transparent-background-701751694967888zqtluh5aaw.png" alt="Windows 11" width="40" height="40"/>
   </a>
   <a href="https://www.linux.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
@@ -134,7 +134,7 @@ Si tienes un proyecto interesante o una oferta, ¡no dudes en contactarme!
   </a>
   <a href="https://www.apple.com/macos" target="_blank">
     <img src="https://cdn.simpleicons.org/macos" alt="macOS" width="40" height="40"/>
-  </a>
+    </a>
   <a href="https://www.apple.com/ios" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/iphone.png" alt="iOS" width="40" height="40"/>
   </a>
