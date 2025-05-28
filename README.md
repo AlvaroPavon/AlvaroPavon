@@ -85,7 +85,7 @@ Si tienes un proyecto interesante o una oferta, ¡no dudes en contactarme!
   </a>
   
   <a href="https://learn.microsoft.com/es-es/dynamics365/business-central/dev-itpro/developer/devenv-al-overview" target="_blank">
-    <img src="assets/al-original.svg" alt="AL Language" width="40" height="40"/>
+    <img src="[assets/al-original.svg](https://ms-dynamics-smb.gallerycdn.vsassets.io/extensions/ms-dynamics-smb/al/16.0.1493797/1746803858000/Microsoft.VisualStudio.Services.Icons.Default)" alt="AL Language" width="40" height="40"/>
     </a>
   <a href="https://dynamics.microsoft.com/es-es/" target="_blank">
     <img src="https://es.smartsheet.com/sites/default/files/2023-09/Microsoft-Dynamics-365-Logo-full.png" alt="Microsoft Dynamics 365" width="40" height="40"/>
