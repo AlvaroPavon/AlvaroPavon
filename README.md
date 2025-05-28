@@ -120,31 +120,24 @@ Si tienes un proyecto interesante o una oferta, ¡no dudes en contactarme!
 ### Sistemas Operativos
 
 <p align="left">
-  <!-- Windows -->
   <a href="https://www.microsoft.com/windows" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/windows11" alt="Windows 11" width="40" height="40"/>
   </a>
-  <!-- Linux -->
   <a href="https://www.linux.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   </a>
-  <!-- Ubuntu -->
   <a href="https://ubuntu.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/>
   </a>
-  <!-- Kali Linux -->
   <a href="https://www.kali.org" target="_blank">
     <img src="https://raw.githubusercontent.com/AlvaroPavon/AlvaroPavon/main/assets/kalilinux.svg" alt="Kali Linux" width="40" height="40"/>
   </a>
-  <!-- macOS -->
   <a href="https://www.apple.com/macos" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="macOS" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/macos" alt="macOS" width="40" height="40"/>
   </a>
-  <!-- iOS -->
   <a href="https://www.apple.com/ios" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/iphone.png" alt="iOS" width="40" height="40"/>
   </a>
-  <!-- Android -->
   <a href="https://www.android.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
   </a>
