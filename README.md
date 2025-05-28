@@ -50,67 +50,71 @@ Si tienes un proyecto interesante o una oferta, ¡no dudes en contactarme!
 ## Lenguajes y Herramientas
 
 <p align="left">
-  <!-- Python -->
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
-  <!-- Java -->
   <a href="https://www.java.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a>
-  <!-- Kotlin -->
   <a href="https://kotlinlang.org" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin" width="40" height="40"/>
   </a>
-  <!-- JavaScript -->
   <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
-  <!-- PHP -->
   <a href="https://www.php.net" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   </a>
-  <!-- Odoo -->
   <a href="https://www.odoo.com" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/odoo.svg" alt="Odoo" width="40" height="40"/>
   </a>
-  <!-- Docker -->
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   </a>
-  <!-- SQL (MySQL) -->
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   </a>
-  <!-- HTML5 -->
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   </a>
-  <!-- CSS3 -->
   <a href="https://www.w3.org/Style/CSS/Overview.es.html" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   </a>
-  <!-- Android Studio -->
+  <a href="https://isocpp.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+  
+  <a href="https://learn.microsoft.com/es-es/dynamics365/business-central/dev-itpro/developer/devenv-al-overview" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/al/al-original.svg" alt="AL Language" width="40" height="40"/>
+  </a>
+  <a href="https://dynamics.microsoft.com/es-es/" target="_blank">
+    <img src="https://raw.githubusercontent.com/MicrosoftDocs/dynamics365-docs.es-es/main/breadcrumb/assets/dynamics-365-icon-100x100.png" alt="Microsoft Dynamics 365" width="40" height="40"/>
+    </a>
+  <a href="https://powerapps.microsoft.com/es-es/" target="_blank">
+    <img src="https://raw.githubusercontent.com/MicrosoftDocs/powerplatform-docs.es-es/main/power-apps/media/powerapps-logo-48-2024.png" alt="Power Apps" width="40" height="40"/>
+    </a>
+  <a href="https://powerautomate.microsoft.com/es-es/" target="_blank">
+    <img src="https://raw.githubusercontent.com/MicrosoftDocs/powerplatform-docs.es-es/main/power-automate/media/powerautomate-logo-48-2024.png" alt="Power Automate" width="40" height="40"/>
+    </a>
+  <a href="https://powerbi.microsoft.com/es-es/" target="_blank">
+    <img src="https://raw.githubusercontent.com/MicrosoftDocs/powerbi-docs.es-es/main/power-bi/media/powerbi-logo-48-2024.png" alt="Power BI" width="40" height="40"/>
+    </a>
+  <a href="https://learn.microsoft.com/es-es/power-apps/maker/data-platform/data-platform-intro" target="_blank">
+    <img src="https://raw.githubusercontent.com/MicrosoftDocs/powerplatform-docs.es-es/main/power-apps/maker/data-platform/media/dataverse-logo-48.png" alt="Dataverse" width="40" height="40"/>
+    </a>
+
   <a href="https://developer.android.com/studio" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/>
   </a>
-  <!-- Visual Studio Code -->
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   </a>
-  <!-- IntelliJ IDEA -->
   <a href="https://www.jetbrains.com/idea/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-plain.svg" alt="IntelliJ IDEA" width="40" height="40"/>
   </a>
-  <!-- Eclipse -->
   <a href="https://www.eclipse.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40" height="40"/>
   </a>
-  <!-- DevC++ (C++) -->
-  <a href="https://www.isoftwareworld.com/devcpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-</p>
+  </p>
 
 ### Sistemas Operativos
 
