@@ -88,19 +88,19 @@ Si tienes un proyecto interesante o una oferta, ¡no dudes en contactarme!
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/al/al-original.svg" alt="AL Language" width="40" height="40"/>
   </a>
   <a href="https://dynamics.microsoft.com/es-es/" target="_blank">
-    <img src="https://cdn.simpleicons.org/microsoftdynamics365/0065B3" alt="Microsoft Dynamics 365" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/microsoftdynamics365" alt="Microsoft Dynamics 365" width="40" height="40"/>
   </a>
   <a href="https://powerapps.microsoft.com/es-es/" target="_blank">
-    <img src="https://cdn.simpleicons.org/powerapps/742774" alt="Power Apps" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/powerapps" alt="Power Apps" width="40" height="40"/>
   </a>
   <a href="https://powerautomate.microsoft.com/es-es/" target="_blank">
-    <img src="https://cdn.simpleicons.org/powerautomate/0C6BDD" alt="Power Automate" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/powerautomate" alt="Power Automate" width="40" height="40"/>
   </a>
   <a href="https://powerbi.microsoft.com/es-es/" target="_blank">
-    <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/powerbi" alt="Power BI" width="40" height="40"/>
   </a>
   <a href="https://learn.microsoft.com/es-es/power-apps/maker/data-platform/data-platform-intro" target="_blank">
-    <img src="https://cdn.simpleicons.org/dataverse/0065BF" alt="Dataverse" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/dataverse" alt="Dataverse" width="40" height="40"/>
   </a>
 
   <a href="https://developer.android.com/studio" target="_blank">
