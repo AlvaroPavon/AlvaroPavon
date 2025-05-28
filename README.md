@@ -80,27 +80,28 @@ Si tienes un proyecto interesante o una oferta, ¡no dudes en contactarme!
   <a href="https://www.w3.org/Style/CSS/Overview.es.html" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   </a>
-  <a href="https://isocpp.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
   
   <a href="https://learn.microsoft.com/es-es/dynamics365/business-central/dev-itpro/developer/devenv-al-overview" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/al/al-original.svg" alt="AL Language" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/al/al-original.svg" alt="AL Language" width="40" height="40"/>
   </a>
   <a href="https://dynamics.microsoft.com/es-es/" target="_blank">
-    <img src="https://raw.githubusercontent.com/MicrosoftDocs/dynamics365-docs.es-es/main/breadcrumb/assets/dynamics-365-icon-100x100.png" alt="Microsoft Dynamics 365" width="40" height="40"/>
-    </a>
+    <img src="https://cdn.simpleicons.org/microsoftdynamics365/0065B3" alt="Microsoft Dynamics 365" width="40" height="40"/>
+  </a>
   <a href="https://powerapps.microsoft.com/es-es/" target="_blank">
-    <img src="https://raw.githubusercontent.com/MicrosoftDocs/powerplatform-docs.es-es/main/power-apps/media/powerapps-logo-48-2024.png" alt="Power Apps" width="40" height="40"/>
-    </a>
+    <img src="https://cdn.simpleicons.org/powerapps/742774" alt="Power Apps" width="40" height="40"/>
+  </a>
   <a href="https://powerautomate.microsoft.com/es-es/" target="_blank">
-    <img src="https://raw.githubusercontent.com/MicrosoftDocs/powerplatform-docs.es-es/main/power-automate/media/powerautomate-logo-48-2024.png" alt="Power Automate" width="40" height="40"/>
-    </a>
+    <img src="https://cdn.simpleicons.org/powerautomate/0C6BDD" alt="Power Automate" width="40" height="40"/>
+  </a>
   <a href="https://powerbi.microsoft.com/es-es/" target="_blank">
-    <img src="https://raw.githubusercontent.com/MicrosoftDocs/powerbi-docs.es-es/main/power-bi/media/powerbi-logo-48-2024.png" alt="Power BI" width="40" height="40"/>
-    </a>
+    <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" width="40" height="40"/>
+  </a>
   <a href="https://learn.microsoft.com/es-es/power-apps/maker/data-platform/data-platform-intro" target="_blank">
-    <img src="https://raw.githubusercontent.com/MicrosoftDocs/powerplatform-docs.es-es/main/power-apps/maker/data-platform/media/dataverse-logo-48.png" alt="Dataverse" width="40" height="40"/>
-    </a>
+    <img src="https://cdn.simpleicons.org/dataverse/0065BF" alt="Dataverse" width="40" height="40"/>
+  </a>
 
   <a href="https://developer.android.com/studio" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/>
@@ -114,7 +115,7 @@ Si tienes un proyecto interesante o una oferta, ¡no dudes en contactarme!
   <a href="https://www.eclipse.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40" height="40"/>
   </a>
-  </p>
+</p>
 
 ### Sistemas Operativos
 
