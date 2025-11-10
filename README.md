@@ -1,7 +1,6 @@
 <h1 align="center">Hola, soy Álvaro Pavón Martínez 👨‍💻</h1>
 
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Developer%20%26%20Cybersecurity%20Specialist;IT%20Project%20Manager%20%7C%20Programador%20Junior;Always%20eager%20to%20learn%20new%20technologies&font=Fira%20Code&center=true&width=600&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
   </a>
@@ -9,7 +8,7 @@
 
 - 💻 Tengo experiencia en el sector de la informática, tanto en la venta y asesoramiento de dispositivos como en el desarrollo de aplicaciones utilizando diversos lenguajes de programación. Mi pasión es la programación: disfruto resolviendo problemas y creando soluciones innovadoras.
 - 🔐 Me especializo en ciberseguridad y desarrollo de aplicaciones, trabajando con tecnologías como Java, Python, Kotlin, JavaScript, PHP, Odoo y Docker.
-- 🎓 Actualmente curso un **Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Multiplataforma** en Atlántida Formación y poseo un **Certificado de Profesionalidad en Programación de Sistemas Informáticos**.
+- 🎓 Recientemente titulado del **Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Multiplataforma** en Atlántida Formación. Actualmente cursando una **Especialización en Ciberseguridad**. Poseo un **Certificado de Profesionalidad en Programación de Sistemas Informáticos**.
 - 🚀 He complementado mi formación con numerosos cursos y certificaciones:
   - 🔐 **Cibersecurity Initiation Master’s Degree** | The Valley Digital Business School (2023)
   - ☕ **Master Completo en Java** | Udemy (2022)
@@ -37,7 +36,7 @@ Si tienes un proyecto interesante o una oferta, ¡no dudes en contactarme!
   <a href="https://www.linkedin.com/in/alvaropavonmartinez/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://wa.me/34662443794/?text=Hola%21" target="_blank">
+  <a href="httpsa://wa.me/34662443794/?text=Hola%21" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp" width="40" height="40"/>
   </a>
   <a href="https://app.hackthebox.com/profile/overview" target="_blank">
@@ -159,16 +158,14 @@ Si tienes un proyecto interesante o una oferta, ¡no dudes en contactarme!
 
 ## Estadísticas
 
-<!-- Animación de contribución en forma de serpiente -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlvaroPavon/AlvaroPavon/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="httpsD://raw.githubusercontent.com/AlvaroPavon/AlvaroPavon/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlvaroPavon/AlvaroPavon/output/github-contribution-grid-snake.svg"/>
     <img alt="Animación de contribuciones (snake)" src="https://raw.githubusercontent.com/AlvaroPavon/AlvaroPavon/output/github-contribution-grid-snake.svg"/>
   </picture>
 </p>
 
-<!-- Tarjeta de Trofeos GitHub -->
 <h3 align="center">¡Mira mis Trofeos de GitHub en acción!</h3>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -176,7 +173,6 @@ Si tienes un proyecto interesante o una oferta, ¡no dudes en contactarme!
   </a>
 </p>
 
-<!-- Estadísticas de GitHub -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlvaroPavon&show_icons=true&locale=es&layout=compact&theme=radical&cache_seconds=0" alt="Lenguajes Principales" />
 </p>
@@ -194,9 +190,3 @@ Si tienes un proyecto interesante o una oferta, ¡no dudes en contactarme!
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlvaroPavon&bg_color=ffffff&color=000000&line=f75c7e&point=000000" alt="Actividad de AlvaroPavon" />
 </p>
-
-<!--## Actividad reciente en GitHub-->
-
-<!--START_SECTION:activity-->
-<!-- La acción 'GitHub - Activity - Readme' actualizará automáticamente esta sección con tu actividad reciente -->
-<!--END_SECTION:activity-->
